@@ -1,8 +1,6 @@
 from turtle import *
 bgcolor("black")
-
 N = 80
-
 def f(x):
     return 3.9*x*(1-x)
 
